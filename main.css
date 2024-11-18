@@ -1,0 +1,38 @@
+.home {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  span {
+    border: 2px solid;
+    padding: 17px 57px;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .learn {
+    width: 386px;
+    margin-bottom: 10px;
+    font-size: 38px;
+  }
+  
+  .lorem {
+    width: 700px;
+    font-size: 24px;
+    color: #8f95a5;
+  }
+  
+  .get {
+    color: #263238;
+    width: 300px;
+    height: 100px;
+    top: 600px;
+    left: 100px;
+    border-radius: 10px;
+  }
+  
